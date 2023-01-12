@@ -1,0 +1,43 @@
+{
+  "gilir": 1,
+  "key": [
+    "BAE5AA3EDDAA88DD",
+    "BAE574E13039451B",
+    "BAE5791CC54C9964",
+    "BAE527AB78FABE01",
+    "BAE50E9866B410AC",
+    "BAE577CFAD91FFC3",
+    "BAE5A5BFD2D9B879",
+    "BAE5D453EA561DE0",
+    "BAE5A91B750B808F",
+    "BAE5BEBBF8AEEF92",
+    "BAE524A494DFAA0E",
+    "BAE59D2D778A5714",
+    "BAE5BB3A293C9821",
+    "BAE549FC2E5F52CF",
+    "BAE5A90C0A5D9593",
+    "BAE51690F274FF4C",
+    "BAE5EAA4E231E500",
+    "BAE5E142D96A57E8",
+    "BAE5BE60313AD419",
+    "BAE5B4621289B82A",
+    "BAE58535A7A8C82A",
+    "BAE55610D73AD89F",
+    "BAE5DE607F110DC3",
+    "BAE5A8156989F1E7",
+    "BAE54A525C71C405",
+    "BAE599CF280EC81E"
+  ],
+  "template": "./storage_cabinets/image/5847.jpg",
+  "player1": {
+    "id": "6285828300305@s.whatsapp.net",
+    "jalan": 26,
+    "picture": "./storage_cabinets/image/2418.jpg"
+  },
+  "player2": {
+    "id": "6285883359262@s.whatsapp.net",
+    "setuju": true,
+    "jalan": 10,
+    "picture": "./storage_cabinets/image/6482.jpg"
+  }
+}

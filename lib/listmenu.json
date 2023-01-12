@@ -1,0 +1,19 @@
+{ 
+ "user_data": ["ceklimit","buylimit","topbalance"],
+ "group": ["group","kick","add","promote","demote","setpp","revoke","tagall","leave","absenstart","absen","cekabsen","delabsen"],
+ "owner": ["mode","join","sendbuffer","setppbot","setppbot2","verify","bc","setwelcome","setleave"],
+ "asupan": ["ukhty","gea","take","rika","santuy","bocil"],
+ "media": ["sticker","ppcp","swm","ttp","smeme","toimg","pinterest"],
+ "random": ["alay","namaninja","cerpen"],
+ "fun": ["suit","calculator","darkjokes","meme","bisakah","kapankah","apakah","bagaimanakah","sangecek","gaycek","ceksange","lesbicek"],
+ "topup": ["freefire","ml"],
+ "primbon": ["nomorhoki","artimimpi","ramaljodoh","ramaljodohbali","suamiistri","ramalcinta","artinama","cocoknama","kecocokanpasangan","jadiannikah","sifatusaha","rezerki","pekerjaan","ramalnasib","penyakit","artitarot","fengshui","haribaik","harisangar","harinaas","nagahari","arahrejeki","peruntungan","weton","sifat","keberuntungan","memancing","masasubur","zodiak","shio"],
+ "islam": ["hadits"],
+ "convert": ["togif","tomp4","toanime"],
+ "textpro": ["thunder","thunder2","blackpink","3dstone","neon","neon2","matrix","harry","transformer","grafiti"],
+ "stalker": ["lirik","ytstalk","githubstalk","igstalk"],
+ "download": ["ytmp4","gitclone","twitterdl","ytmp3","play","igpoto","igvideo","ig","tiktok","zippyshare","storyanime"],
+ "anime": ["waifu", "loli","husbu","wallml","cosplay","kusonime", "otakudesu","batchkusonime","whatanime"],
+ "generator": ["tourl", "tourl2", "qrgenerator","qrreader"],
+ "game": ["tebakgambar","suit"]
+}

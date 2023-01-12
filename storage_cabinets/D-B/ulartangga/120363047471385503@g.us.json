@@ -1,0 +1,16 @@
+{
+  "gilir": 0,
+  "key": [],
+  "template": "./storage_cabinets/image/2083.jpg",
+  "player1": {
+    "id": "6285692114469@s.whatsapp.net",
+    "jalan": 1,
+    "picture": "./storage_cabinets/image/6696.jpg"
+  },
+  "player2": {
+    "id": "15517868007@s.whatsapp.net",
+    "setuju": false,
+    "jalan": 1,
+    "picture": "./storage_cabinets/image/3915.jpg"
+  }
+}
